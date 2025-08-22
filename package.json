@@ -1,0 +1,20 @@
+{
+  "name": "redis__tutorial",
+  "version": "1.0.0",
+  "description": "This is about redis tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hardiksingh467-developer/redis__tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hardiksingh467-developer/redis__tutorial/issues"
+  },
+  "homepage": "https://github.com/hardiksingh467-developer/redis__tutorial#readme"
+}
